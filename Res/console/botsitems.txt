@@ -1,0 +1,178 @@
+-givebots item_aegis;---;Gives all bots the item  Aegis of the Immortal.
+-givebots item_courier;---;Gives all bots the item  Animal Courier.
+-givebots item_boots_of_elves;---;Gives all bots the item  Band of Elvenskin.
+-givebots item_belt_of_strength;---;Gives all bots the item  Belt of Strength.
+-givebots item_blade_of_alacrity;---;Gives all bots the item  Blade of Alacrity.
+-givebots item_blades_of_attack;---;Gives all bots the item  Blades of Attack.
+-givebots item_blink;---;Gives all bots the item  Blink Dagger.
+-givebots item_bottle;---;Gives all bots the item  Bottle.
+-givebots item_broadsword;---;Gives all bots the item  Broadsword.
+-givebots item_chainmail;---;Gives all bots the item  Chainmail.
+-givebots item_cheese;---;Gives all bots the item  Cheese.
+-givebots item_circlet;---;Gives all bots the item  Circlet.
+-givebots item_clarity;---;Gives all bots the item  Clarity.
+-givebots item_claymore;---;Gives all bots the item  Claymore.
+-givebots item_cloak;---;Gives all bots the item  Cloak.
+-givebots item_demon_edge;---;Gives all bots the item  Demon Edge.
+-givebots item_dust;---;Gives all bots the item  Dust of Appearance.
+-givebots item_eagle;---;Gives all bots the item  Dust of Eaglesong.
+-givebots item_enchanted_mango;---;Gives all bots the item  Enchanted Mango.
+-givebots item_energy_booster;---;Gives all bots the item  Energy Booster.
+-givebots item_flying_courier;---;Gives all bots the item  Flying Courier.
+-givebots item_gauntlets;---;Gives all bots the item  Gauntlets of Strength.
+-givebots item_gem;---;Gives all bots the item  Gem of True Sight.
+-givebots item_ghost;---;Gives all bots the item  Ghost Scepter.
+-givebots item_gloves;---;Gives all bots the item  Gloves of Haste.
+-givebots item_flask;---;Gives all bots the item  Healing Salve.
+-givebots item_helm_of_iron_will;---;Gives all bots the item  Helm of Iron Will.
+-givebots item_hyperstone;---;Gives all bots the item  Hyperstone.
+-givebots item_branches;---;Gives all bots the item  Iron Branch.
+-givebots item_javelin;---;Gives all bots the item  Javelin.
+-givebots item_magic_stick;---;Gives all bots the item  Magic Stick.
+-givebots item_mantle;---;Gives all bots the item  Mantle of Intelligence.
+-givebots item_mithril_hammer;---;Gives all bots the item  Mithril Hammer.
+-givebots item_lifesteal;---;Gives all bots the item  Morbid Mask.
+-givebots item_mystic_staff;---;Gives all bots the item  Mystic Staff.
+-givebots item_ward_observer;---;Gives all bots the item  Observer Ward.
+-givebots item_ogre_axe;---;Gives all bots the item  Ogre Club.
+-givebots item_orb_of_venom;---;Gives all bots the item  Orb of Venom.
+-givebots item_platemail;---;Gives all bots the item  Platemail.
+-givebots item_point_booster;---;Gives all bots the item  Point Booste.
+-givebots item_quarterstaff;---;Gives all bots the item  Quarterstaff.
+-givebots item_quelling_blade;---;Gives all bots the item  Quelling Blade.
+-givebots item_reaver;---;Gives all bots the item  Reaver.
+-givebots item_ring_of_health;---;Gives all bots the item  Ring of Health.
+-givebots item_ring_of_protection;---;Gives all bots the item  Ring of Protection.
+-givebots item_ring_of_regen;---;Gives all bots the item  Ring of Regen.
+-givebots item_robe;---;Gives all bots the item  Robe of the Magi.
+-givebots item_relic;---;Gives all bots the item  Sacred Relic.
+-givebots item_sobi_mask;---;Gives all bots the item  Sage's Mask.
+-givebots item_ward_sentry;---;Gives all bots the item  Sentry Ward.
+-givebots item_shadow_amulet;---;Gives all bots the item  Shadow Amulet.
+-givebots item_smoke_of_deceit;---;Gives all bots the item  Smoke of Deceit.
+-givebots item_staff_of_wizardry;---;Gives all bots the item  Staff of Wizardry.
+-givebots item_stout_shield;---;Gives all bots the item  Stout Shield.
+-givebots item_talisman_of_evasion;---;Gives all bots the item  Talisman of Evasion.
+-givebots item_tango;---;Gives all bots the item  Tango.
+-givebots item_tango_single;---;Gives all bots the item  Tango (Shared).
+-givebots item_tpscroll;---;Gives all bots the item  Town Portal Scroll.
+-givebots item_ultimate_orb;---;Gives all bots the item  Ultimate Orb.
+-givebots item_vitality_booster;---;Gives all bots the item  Vitality Booster.
+-givebots item_void_stone;---;Gives all bots the item  Void Stone.
+-givebots item_abyssal_blade;---;Gives all bots the item  Abyssal Blade.
+-givebots item_ultimate_scepter;---;Gives all bots the item  Aghanim's Scepter.
+-givebots item_arcane_boots;---;Gives all bots the item  Arcane Boots.
+-givebots item_armlet;---;Gives all bots the item  Armlet of Mordiggian.
+-givebots item_assault;---;Gives all bots the item  Assault Cuirass.
+-givebots item_bfury;---;Gives all bots the item  Battle Fury.
+-givebots item_black_king_bar;---;Gives all bots the item  Black King Bar.
+-givebots item_blade_mail;---;Gives all bots the item  Blade Mail.
+-givebots item_bloodstone;---;Gives all bots the item  Bloodstone.
+-givebots item_travel_boots;---;Gives all bots the item  Boots of Travel.
+-givebots item_bracer;---;Gives all bots the item  Bracer.
+-givebots item_buckler;---;Gives all bots the item  Buckler.
+-givebots item_butterfly;---;Gives all bots the item  Butterfly.
+-givebots item_crimson_guard;---;Gives all bots the item  Crimson Guard.
+-givebots item_lesser_crit;---;Gives all bots the item  Crystalys.
+-givebots item_greater_crit;---;Gives all bots the item  Daedalus.
+-givebots item_dagon;---;Gives all bots the item  Dagon.
+-givebots item_desolator;---;Gives all bots the item  Desolator.
+-givebots item_diffusal_blade;---;Gives all bots the item  Diffusal Blade.
+-givebots item_ancient_janggo;---;Gives all bots the item  Drum of Endurance.
+-givebots item_ethereal_blade;---;Gives all bots the item  Ethereal Blade.
+-givebots item_cyclone;---;Gives all bots the item  Eul's Scepter of Divinity.
+-givebots item_skadi;---;Gives all bots the item  Eye of Skadi.
+-givebots item_force_staff;---;Gives all bots the item  Force Staff.
+-givebots item_glimmer_cape;---;Gives all bots the item  Glimmer Cape.
+-givebots item_guardian_greaves;---;Gives all bots the item  Guardian Greaves.
+-givebots item_hand_of_midas;---;Gives all bots the item  Hand of Midas.
+-givebots item_headdress;---;Gives all bots the item  Headdress.
+-givebots item_heart;---;Gives all bots the item  Heart of Tarrasque.
+-givebots item_heavens_halberd;---;Gives all bots the item  Heaven's Halberd.
+-givebots item_helm_of_the_dominator;---;Gives all bots the item  Helm of the Dominator.
+-givebots item_hood_of_defiance;---;Gives all bots the item  Hood of Defiance.
+-givebots item_sphere;---;Gives all bots the item  Linken's Sphere.
+-givebots item_lotus_orb;---;Gives all bots the item  Lotus Orb.
+-givebots item_maelstrom;---;Gives all bots the item  Maelstrom.
+-givebots item_magic_wand;---;Gives all bots the item  Magic Wand.
+-givebots item_manta;---;Gives all bots the item  Manta Style.
+-givebots item_mask_of_madness;---;Gives all bots the item  Mask of Madness.
+-givebots item_medallion_of_courage;---;Gives all bots the item  Medallion of Courage.
+-givebots item_mekansm;---;Gives all bots the item  Mekansm.
+-givebots item_mjollnir;---;Gives all bots the item  Mjollnir.
+-givebots item_monkey_king_bar;---;Gives all bots the item  Monkey King Bar.
+-givebots item_moon_shard;---;Gives all bots the item  Moon Shard.
+-givebots item_necronomicon  item_necronomicon_2  item_necronomicon_3;---;Gives all bots the item  Necronomicon.
+-givebots item_null_talisman;---;Gives all bots the item  Null Talisman.
+-givebots item_oblivion_staff;---;Gives all bots the item  Oblivion Staff.
+-givebots item_ward_dispenser;---;Gives all bots the item  Observer and Sentry Wards.
+-givebots item_octarine_core;---;Gives all bots the item  Octarine Core.
+-givebots item_orchid;---;Gives all bots the item  Orchid Malevolence.
+-givebots item_pers;---;Gives all bots the item  Perseverance.
+-givebots item_phase_boots;---;Gives all bots the item  Phase Boots.
+-givebots item_pipe;---;Gives all bots the item  Pipe of Insight.
+-givebots item_poor_mans_shield;---;Gives all bots the item  Poor Man's Shield.
+-givebots item_power_treads;---;Gives all bots the item  Power Treads.
+-givebots item_radiance;---;Gives all bots the item  Radiance.
+-givebots item_rapier;---;Gives all bots the item  Divine Rapier.
+-givebots item_refresher;---;Gives all bots the item  Refresher Orb.
+-givebots item_ring_of_aquila;---;Gives all bots the item  Ring of Aquila.
+-givebots item_ring_of_basilius;---;Gives all bots the item  Ring of Basilius.
+-givebots item_rod_of_atos;---;Gives all bots the item  Rod of Atos.
+-givebots item_sange;---;Gives all bots the item  Sange.
+-givebots item_sange_and_yasha;---;Gives all bots the item  Sange and Yasha.
+-givebots item_satanic;---;Gives all bots the item  Satanic.
+-givebots item_sheepstick;---;Gives all bots the item  Scythe of Vyse.
+-givebots item_invis_sword;---;Gives all bots the item  Shadow Blade.
+-givebots item_shivas_guard;---;Gives all bots the item  Shiva's Guard.
+-givebots item_silver_edge;---;Gives all bots the item  Silver Edge.
+-givebots item_basher;---;Gives all bots the item  Skull Basher.
+-givebots item_solar_crest;---;Gives all bots the item  Solar Crest.
+-givebots item_soul_booster;---;Gives all bots the item  Soul Booster.
+-givebots item_soul_ring;---;Gives all bots the item  Soul Ring.
+-givebots item_tranquil_boots;---;Gives all bots the item  Tranquil Boots.
+-givebots item_urn_of_shadows;---;Gives all bots the item  Urn of Shadows.
+-givebots item_vanguard;---;Gives all bots the item  Vanguard.
+-givebots item_veil_of_discord;---;Gives all bots the item  Veil of Discord.
+-givebots item_vladmir;---;Gives all bots the item  Vladmir's Offering.
+-givebots item_wraith_band;---;Gives all bots the item  Wraith Band.
+-givebots item_yasha;---;Gives all bots the item  Yasha.
+-givebots item_dragon_lance;---;Gives all bots the  item Dragon Lance.
+-givebots item_aether_lens;---;Gives all bots the item Aether Lens.
+-givebots item_aeon_disk;---;Gives all bots the item Aeon Disk.
+-givebots item_bloodthorn;---;Gives all bots the item Bloodthorn.
+-givebots item_echo_sabre;---;Gives all bots the item Echo_sabre.
+-givebots item_hurricane_pike;---;Gives all bots the  item Hurricane Pike.
+-givebots item_spirit_vessel;---;Gives all bots the item Spirit Vessel.
+-givebots item_nullifier;---;Gives all bots the item Nullifier.
+-givebots item_infused_raindrop;---;Gives all bots the item Infused Raindrop.
+-givebots item_tome_of_knowledge;---;Gives all bots the item Tome of Knowledge.
+-givebots item_meteor_hammer;---;Gives all bots the item Meteor Hammer.
+-givebots item_boots;---;Gives all bots the item Boots of Speed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

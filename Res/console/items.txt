@@ -1,0 +1,171 @@
+-item item_aegis;---;Gives your hero the item Aegis of the Immortal.
+-item item_courier;---;Gives your hero the item Animal Courier.
+-item item_boots_of_elves;---;Gives your hero the item Band of Elvenskin.
+-item item_belt_of_strength;---;Gives your hero the item Belt of Strength.
+-item item_blade_of_alacrity;---;Gives your hero the item Blade of Alacrity.
+-item item_blades_of_attack;---;Gives your hero the item Blades of Attack.
+-item item_blink;---;Gives your hero the item Blink Dagger.
+-item item_bottle;---;Gives your hero the item Bottle.
+-item item_broadsword;---;Gives your hero the item Broadsword.
+-item item_chainmail;---;Gives your hero the item Chainmail.
+-item item_cheese;---;Gives your hero the item Cheese.
+-item item_circlet;---;Gives your hero the item Circlet.
+-item item_clarity;---;Gives your hero the item Clarity.
+-item item_claymore;---;Gives your hero the item Claymore.
+-item item_cloak;---;Gives your hero the item Cloak.
+-item item_demon_edge;---;Gives your hero the item Demon Edge.
+-item item_dust;---;Gives your hero the item Dust of Appearance.
+-item item_eagle;---;Gives your hero the item Dust of Eaglesong.
+-item item_enchanted_mango;---;Gives your hero the item Enchanted Mango.
+-item item_energy_booster;---;Gives your hero the item Energy Booster.
+-item item_flying_courier;---;Gives your hero the item Flying Courier.
+-item item_gauntlets;---;Gives your hero the item Gauntlets of Strength.
+-item item_gem;---;Gives your hero the item Gem of True Sight.
+-item item_ghost;---;Gives your hero the item Ghost Scepter.
+-item item_gloves;---;Gives your hero the item Gloves of Haste.
+-item item_flask;---;Gives your hero the item Healing Salve.
+-item item_helm_of_iron_will;---;Gives your hero the item Helm of Iron Will.
+-item item_hyperstone;---;Gives your hero the item Hyperstone.
+-item item_branches;---;Gives your hero the item Iron Branch.
+-item item_javelin;---;Gives your hero the item Javelin.
+-item item_magic_stick;---;Gives your hero the item Magic Stick.
+-item item_mantle;---;Gives your hero the item Mantle of Intelligence.
+-item item_mithril_hammer;---;Gives your hero the item Mithril Hammer.
+-item item_lifesteal;---;Gives your hero the item Morbid Mask.
+-item item_mystic_staff;---;Gives your hero the item Mystic Staff.
+-item item_ward_observer;---;Gives your hero the item Observer Ward.
+-item item_ogre_axe;---;Gives your hero the item Ogre Club.
+-item item_orb_of_venom;---;Gives your hero the item Orb of Venom.
+-item item_platemail;---;Gives your hero the item Platemail.
+-item item_point_booster;---;Gives your hero the item Point Booste.
+-item item_quarterstaff;---;Gives your hero the item Quarterstaff.
+-item item_quelling_blade;---;Gives your hero the item Quelling Blade.
+-item item_reaver;---;Gives your hero the item Reaver.
+-item item_ring_of_health;---;Gives your hero the item Ring of Health.
+-item item_ring_of_protection;---;Gives your hero the item Ring of Protection.
+-item item_ring_of_regen;---;Gives your hero the item Ring of Regen.
+-item item_robe;---;Gives your hero the item Robe of the Magi.
+-item item_relic;---;Gives your hero the item Sacred Relic.
+-item item_sobi_mask;---;Gives your hero the item Sage's Mask.
+-item item_ward_sentry;---;Gives your hero the item Sentry Ward.
+-item item_shadow_amulet;---;Gives your hero the item Shadow Amulet.
+-item item_smoke_of_deceit;---;Gives your hero the item Smoke of Deceit.
+-item item_staff_of_wizardry;---;Gives your hero the item Staff of Wizardry.
+-item item_stout_shield;---;Gives your hero the item Stout Shield.
+-item item_talisman_of_evasion;---;Gives your hero the item Talisman of Evasion.
+-item item_tango;---;Gives your hero the item Tango.
+-item item_tango_single;---;Gives your hero the item Tango (Shared).
+-item item_tpscroll;---;Gives your hero the item Town Portal Scroll.
+-item item_ultimate_orb;---;Gives your hero the item Ultimate Orb.
+-item item_vitality_booster;---;Gives your hero the item Vitality Booster.
+-item item_void_stone;---;Gives your hero the item Void Stone.
+-item item_abyssal_blade;---;Gives your hero the item Abyssal Blade.
+-item item_ultimate_scepter;---;Gives your hero the item Aghanim's Scepter.
+-item item_arcane_boots;---;Gives your hero the item Arcane Boots.
+-item item_armlet;---;Gives your hero the item Armlet of Mordiggian.
+-item item_assault;---;Gives your hero the item Assault Cuirass.
+-item item_bfury;---;Gives your hero the item Battle Fury.
+-item item_black_king_bar;---;Gives your hero the item Black King Bar.
+-item item_blade_mail;---;Gives your hero the item Blade Mail.
+-item item_bloodstone;---;Gives your hero the item Bloodstone.
+-item item_travel_boots;---;Gives your hero the item Boots of Travel.
+-item item_bracer;---;Gives your hero the item Bracer.
+-item item_buckler;---;Gives your hero the item Buckler.
+-item item_butterfly;---;Gives your hero the item Butterfly.
+-item item_crimson_guard;---;Gives your hero the item Crimson Guard.
+-item item_lesser_crit;---;Gives your hero the item Crystalys.
+-item item_greater_crit;---;Gives your hero the item Daedalus.
+-item item_dagon;---;Gives your hero the item Dagon.
+-item item_desolator;---;Gives your hero the item Desolator.
+-item item_diffusal_blade;---;Gives your hero the item Diffusal Blade.
+-item item_ancient_janggo;---;Gives your hero the item Drum of Endurance.
+-item item_ethereal_blade;---;Gives your hero the item Ethereal Blade.
+-item item_cyclone;---;Gives your hero the item Eul's Scepter of Divinity.
+-item item_skadi;---;Gives your hero the item Eye of Skadi.
+-item item_force_staff;---;Gives your hero the item Force Staff.
+-item item_glimmer_cape;---;Gives your hero the item Glimmer Cape.
+-item item_guardian_greaves;---;Gives your hero the item Guardian Greaves.
+-item item_hand_of_midas;---;Gives your hero the item Hand of Midas.
+-item item_headdress;---;Gives your hero the item Headdress.
+-item item_heart;---;Gives your hero the item Heart of Tarrasque.
+-item item_heavens_halberd;---;Gives your hero the item Heaven's Halberd.
+-item item_helm_of_the_dominator;---;Gives your hero the item Helm of the Dominator.
+-item item_hood_of_defiance;---;Gives your hero the item Hood of Defiance.
+-item item_sphere;---;Gives your hero the item Linken's Sphere.
+-item item_lotus_orb;---;Gives your hero the item Lotus Orb.
+-item item_maelstrom;---;Gives your hero the item Maelstrom.
+-item item_magic_wand;---;Gives your hero the item Magic Wand.
+-item item_manta;---;Gives your hero the item Manta Style.
+-item item_mask_of_madness;---;Gives your hero the item Mask of Madness.
+-item item_medallion_of_courage;---;Gives your hero the item Medallion of Courage.
+-item item_mekansm;---;Gives your hero the item Mekansm.
+-item item_mjollnir;---;Gives your hero the item Mjollnir.
+-item item_monkey_king_bar;---;Gives your hero the item Monkey King Bar.
+-item item_moon_shard;---;Gives your hero the item Moon Shard.
+-item item_necronomicon_3;---;Gives your hero the item Necronomicon.
+-item item_null_talisman;---;Gives your hero the item Null Talisman.
+-item item_oblivion_staff;---;Gives your hero the item Oblivion Staff.
+-item item_ward_dispenser;---;Gives your hero the item Observer and Sentry Wards.
+-item item_octarine_core;---;Gives your hero the item Octarine Core.
+-item item_orchid;---;Gives your hero the item Orchid Malevolence.
+-item item_pers;---;Gives your hero the item Perseverance.
+-item item_phase_boots;---;Gives your hero the item Phase Boots.
+-item item_pipe;---;Gives your hero the item Pipe of Insight.
+-item item_poor_mans_shield;---;Gives your hero the item Poor Man's Shield.
+-item item_power_treads;---;Gives your hero the item Power Treads.
+-item item_radiance;---;Gives your hero the item Radiance.
+-item item_rapier;---;Gives your hero the item Divine Rapier.
+-item item_refresher;---;Gives your hero the item Refresher Orb.
+-item item_ring_of_aquila;---;Gives your hero the item Ring of Aquila.
+-item item_ring_of_basilius;---;Gives your hero the item Ring of Basilius.
+-item item_rod_of_atos;---;Gives your hero the item Rod of Atos.
+-item item_sange;---;Gives your hero the item Sange.
+-item item_sange_and_yasha;---;Gives your hero the item Sange and Yasha.
+-item item_satanic;---;Gives your hero the item Satanic.
+-item item_sheepstick;---;Gives your hero the item Scythe of Vyse.
+-item item_invis_sword;---;Gives your hero the item Shadow Blade.
+-item item_shivas_guard;---;Gives your hero the item Shiva's Guard.
+-item item_silver_edge;---;Gives your hero the item Silver Edge.
+-item item_basher;---;Gives your hero the item Skull Basher.
+-item item_solar_crest;---;Gives your hero the item Solar Crest.
+-item item_soul_booster;---;Gives your hero the item Soul Booster.
+-item item_soul_ring;---;Gives your hero the item Soul Ring.
+-item item_tranquil_boots;---;Gives your hero the item Tranquil Boots.
+-item item_urn_of_shadows;---;Gives your hero the item Urn of Shadows.
+-item item_vanguard;---;Gives your hero the item Vanguard.
+-item item_veil_of_discord;---;Gives your hero the item Veil of Discord.
+-item item_vladmir;---;Gives your hero the item Vladmir's Offering.
+-item item_wraith_band;---;Gives your hero the item Wraith Band.
+-item item_yasha;---;Gives your hero the item Yasha.
+-item item_dragon_lance;---;Gives your hero the item Dragon Lance.
+-item item_aether_lens;---;Gives your hero the item Aether Lens.
+-item item_aeon_disk;---;Gives your hero the item Aeon Disk.
+-item item_bloodthorn;---;Gives your hero the item Bloodthorn.
+-item item_echo_sabre;---;Gives your hero the item Echo_sabre.
+-item item_hurricane_pike;---;Gives your hero the item Hurricane Pike.
+-item item_spirit_vessel;---;Gives your hero the item Spirit Vessel.
+-item item_nullifier;---;Gives your hero the item Nullifier.
+-item item_infused_raindrop;---;Gives your hero the item Infused Raindrop.
+-item item_tome_of_knowledge;---;Gives your hero the item Tome of Knowledge.
+-item item_meteor_hammer;---;Gives your hero the item Meteor Hammer.
+-item item_boots;---;Gives your hero the item Boots of Speed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

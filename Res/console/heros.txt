@@ -1,0 +1,117 @@
+-levelbots;---;Increases the level of all bots.
+-createhero abaddon;---;Creates the hero Abaddon.
+-createhero alchemist;---;Creates the hero Alchemist.
+-createhero antimage;---;Creates the hero Anti-Mage.
+-createhero ancient_apparition;---;Creates the hero Ancient Apparition.
+-createhero arc_warden;---;Creates the hero Arc Warden.
+-createhero axe;---;Creates the hero Axe.
+-createhero bane;---;Creates the hero Bane.
+-createhero batrider;---;Creates the hero Batrider.
+-createhero beastmaster;---;Creates the hero Beastmaster.
+-createhero bloodseeker;---;Creates the hero Bloodseeker.
+-createhero bounty_hunter;---;Creates the hero Bounty Hunter.
+-createhero brewmaster;---;Creates the hero Brewmaster.
+-createhero bristleback;---;Creates the hero Bristleback.
+-createhero broodmother;---;Creates the hero Broodmother.
+-createhero centaur;---;Creates the hero Centaur Warrunner.
+-createhero chaos_knight;---;Creates the hero Chaos Knight.
+-createhero chen;---;Creates the hero Chen.
+-createhero clinkz;---;Creates the hero Clinkz.
+-createhero rattletrap;---;Creates the hero Clockwerk.
+-createhero crystal_maiden;---;Creates the hero Crystal Maiden.
+-createhero dark_seer;---;Creates the hero Dark Seer.
+-createhero dark_willow;---;Creates the hero Dark Willow.
+-createhero dazzle;---;Creates the hero Dazzle.
+-createhero death_prophet;---;Creates the hero Death Prophet.
+-createhero disruptor;---;Creates the hero Disruptor.
+-createhero doom_bringer;---;Creates the hero Doom.
+-createhero dragon_knight;---;Creates the hero Dragon Knight.
+-createhero drow_ranger;---;Creates the hero Drow Ranger.
+-createhero earth_spirit;---;Creates the hero Earth Spirit.
+-createhero earthshaker;---;Creates the hero Earthshaker.
+-createhero elder_titan;---;Creates the hero Elder Titan.
+-createhero ember_spirit;---;Creates the hero Ember Spirit.
+-createhero enchantress;---;Creates the hero Enchantress.
+-createhero enigma;---;Creates the hero Enigma.
+-createhero faceless_void;---;Creates the hero Faceless Void.
+-createhero gyrocopter;---;Creates the hero Gyrocopter.
+-createhero huskar;---;Creates the hero Huskar.
+-createhero invoker;---;Creates the hero Invoker.
+-createhero wisp;---;Creates the hero Io.
+-createhero jakiro;---;Creates the hero Jakiro.
+-createhero juggernaut;---;Creates the hero Juggernaut.
+-createhero keeper_of_the_light;---;Creates the hero Keeper of the Light.
+-createhero kunkka;---;Creates the hero Kunkka.
+-createhero legion_commander;---;Creates the hero Legion Commander.
+-createhero leshrac;---;Creates the hero Leshrac.
+-createhero lich;---;Creates the hero Lich.
+-createhero life_stealer;---;Creates the hero Lifestealer.
+-createhero lina;---;Creates the hero Lina.
+-createhero lion;---;Creates the hero Lion.
+-createhero lone_druid;---;Creates the hero Lone Druid.
+-createhero luna;---;Creates the hero Luna.
+-createhero lycan;---;Creates the hero Lycan.
+-createhero magnataur;---;Creates the hero Magnus.
+-createhero medusa;---;Creates the hero Medusa.
+-createhero meepo;---;Creates the hero Meepo.
+-createhero mirana;---;Creates the hero Mirana.
+-createhero morphling;---;Creates the hero Morphling.
+-createhero monkey_king;---;Creates the hero Monkey King.
+-createhero naga_siren;---;Creates the hero Naga Siren.
+-createhero furion;---;Creates the hero Nature's Prophet.
+-createhero necrolyte;---;Creates the hero Necrophos.
+-createhero night_stalker;---;Creates the hero Night Stalker.
+-createhero nyx_assassin;---;Creates the hero Nyx Assassin.
+-createhero ogre_magi;---;Creates the hero Ogre Magi.
+-createhero omniknight;---;Creates the hero Omniknight.
+-createhero oracle;---;Creates the hero Oracle.
+-createhero obsidian_destroyer;---;Creates the hero Outworld Devourer.
+-createhero obsidian_pangolier;---;Creates the hero Outworld Pangolier.
+-createhero phantom_assassin;---;Creates the hero Phantom Assassin.
+-createhero phantom_lancer;---;Creates the hero Phantom Lancer.
+-createhero phoenix;---;Creates the hero Phoenix.
+-createhero puck;---;Creates the hero Puck.
+-createhero pudge;---;Creates the hero Pudge.
+-createhero pugna;---;Creates the hero Pugna.
+-createhero queenofpain;---;Creates the hero Queen of Pain.
+-createhero razor;---;Creates the hero Razor.
+-createhero riki;---;Creates the hero Riki.
+-createhero rubick;---;Creates the hero Rubick.
+-createhero sand_king;---;Creates the hero Sand King.
+-createhero shadow_demon;---;Creates the hero Shadow Demon.
+-createhero nevermore;---;Creates the hero Shadow Fiend.
+-createhero shadow_shaman;---;Creates the hero Shadow Shaman.
+-createhero silencer;---;Creates the hero Silencer.
+-createhero skywrath_mage;---;Creates the hero Skywrath Mage.
+-createhero slardar;---;Creates the hero Slardar.
+-createhero slark;---;Creates the hero Slark.
+-createhero sniper;---;Creates the hero Sniper.
+-createhero spectre;---;Creates the hero Spectre.
+-createhero spirit_breaker;---;Creates the hero Spirit Breaker.
+-createhero storm_spirit;---;Creates the hero Storm Spirit.
+-createhero sven;---;Creates the hero Sven.
+-createhero techies;---;Creates the hero Techies.
+-createhero templar_assassin;---;Creates the hero Templar Assassin.
+-createhero terrorblade;---;Creates the hero Terrorblade.
+-createhero tidehunter;---;Creates the hero Tidehunter.
+-createhero shredder;---;Creates the hero Timbersaw.
+-createhero tinker;---;Creates the hero Tinker.
+-createhero tiny;---;Creates the hero Tiny.
+-createhero treant;---;Creates the hero Treant Protector.
+-createhero troll_warlord;---;Creates the hero Troll Warlord.
+-createhero tusk;---;Creates the hero Tusk.
+-createhero abyssal_underlord;---;Creates the hero Underlord.
+-createhero undying;---;Creates the hero Undying.
+-createhero ursa;---;Creates the hero Ursa.
+-createhero vengefulspirit;---;Creates the hero Vengeful Spirit.
+-createhero venomancer;---;Creates the hero Venomancer.
+-createhero viper;---;Creates the hero Viper.
+-createhero visage;---;Creates the hero Visage.
+-createhero warlock;---;Creates the hero Warlock.
+-createhero weaver;---;Creates the hero Weaver.
+-createhero windrunner;---;Creates the hero Windranger.
+-createhero winter_wyvern;---;Creates the hero Winter Wyvern.
+-createhero witch_doctor;---;Creates the hero Witch Doctor.
+-createhero skeleton_king;---;Creates the hero Wraith King.
+-createhero zuus;---;Creates the hero Zeus.
+-dumpbots;---;Displays AI status.

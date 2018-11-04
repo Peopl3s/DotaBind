@@ -1,0 +1,4 @@
+-clearwards;---;Destroysall Observer Wards.
+-killwards;---;Destroys all Observer and Sentry Wards.
+
+ 

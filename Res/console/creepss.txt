@@ -1,0 +1,122 @@
+-createhero npc_dota_creep_badguys_melee;---;Creates the unit Dire melee creep.
+-createhero npc_dota_creep_badguys_melee_upgraded;---;Creates the unit Dire super melee creep.
+-createhero npc_dota_creep_badguys_melee_upgraded_mega;---;Creates the unit Dire mega melee creep.
+-createhero npc_dota_creep_badguys_ranged;---;Creates the unit Dire ranged creep.
+-createhero npc_dota_creep_badguys_ranged_upgraded;---;Creates the unit Dire super ranged creep.
+-createhero npc_dota_creep_badguys_ranged_upgraded_mega;---;Creates the unit Dire mega ranged creep.
+-createhero npc_dota_badguys_siege;---;Creates the unit Dire siege creep.
+-createhero npc_dota_badguys_siege_upgraded;---;Creates the unit Dire super siege creep.
+-createhero npc_dota_badguys_siege_upgraded_mega;---;Creates the unit Dire mega siege creep.
+-createhero npc_dota_creep_goodguys_melee;---;Creates the unit Radiant melee creep.
+-createhero npc_dota_creep_goodguys_melee_upgraded;---;Creates the unit Radiant super melee creep.
+-createhero npc_dota_creep_goodguys_melee_upgraded_mega;---;Creates the unit Radiant mega melee creep.
+-createhero npc_dota_creep_goodguys_ranged;---;Creates the unit Radiant ranged creep.
+-createhero npc_dota_creep_goodguys_ranged_upgraded;---;Creates the unit Radiant super ranged creep.
+-createhero npc_dota_creep_goodguys_ranged_upgraded_mega;---;Creates the unit Radiant mega ranged creep.
+-createhero npc_dota_goodguys_siege;---;Creates the unit Radiant siege creep.
+-createhero npc_dota_goodguys_siege_upgraded;---;Creates the unit Radiant super siege creep.
+-createhero npc_dota_goodguys_siege_upgraded_mega;---;Creates the unit Radiant mega siege creep.
+-createhero npc_dota_neutral_alpha_wolf;---;Creates the unit Alpha Wolf.
+-createhero npc_dota_neutral_centaur_khan;---;Creates the unit Centaur Conqueror.
+-createhero npc_dota_neutral_centaur_outrunner;---;Creates the unit Centaur Courser.
+-createhero npc_dota_neutral_dark_troll_warlord;---;Creates the unit Dark Troll Summoner.
+-createhero npc_dota_neutral_fel_beast;---;Creates the unit Fell Spirit.
+-createhero npc_dota_neutral_ghost;---;Creates the unit Ghost.
+-createhero npc_dota_neutral_giant_wolf;---;Creates the unit Giant Wolf.
+-createhero npc_dota_neutral_harpy_scout;---;Creates the unit Harpy.
+-createhero npc_dota_neutral_harpy_storm;---;Creates the unit Harpy Stormcrafter.
+-createhero npc_dota_neutral_polar_furbolg_champion;---;Creates the unit Hellbear.
+-createhero npc_dota_neutral_polar_furbolg_ursa_warrior;---;Creates the unit Hellbear Smasher.
+-createhero npc_dota_neutral_dark_troll;---;Creates the unit Hill Troll.
+-createhero npc_dota_neutral_forest_troll_berserker;---;Creates the unit Hill Troll Berserker.
+-createhero npc_dota_neutral_forest_troll_high_priest;---;Creates the unit Hill Troll Priest.
+-createhero npc_dota_neutral_kobold;---;Creates the unit Kobold.
+-createhero npc_dota_neutral_kobold_tunneler;---;Creates the unit Kobold Soldier.
+-createhero npc_dota_neutral_kobold_taskmaster;---;Creates the unit Kobold Foreman.
+-createhero npc_dota_neutral_mud_golem;---;Creates the unit Mud Golem.
+-createhero npc_dota_neutral_ogre_mauler;---;Creates the unit Ogre Bruiser.
+-createhero npc_dota_neutral_ogre_magi;---;Creates the unit Ogre Frostmage.
+-createhero npc_dota_neutral_satyr_trickster;---;Creates the unit Satyr Banisher.
+-createhero npc_dota_neutral_satyr_soulstealer;---;Creates the unit Satyr Mindstealer.
+-createhero npc_dota_neutral_satyr_hellcaller;---;Creates the unit Satyr Tormenter.
+-createhero npc_dota_neutral_gnoll_assassin;---;Creates the unit Vhoul Assassin.
+-createhero npc_dota_neutral_wildkin;---;Creates the unit Wildwing.
+-createhero npc_dota_neutral_enraged_wildkin;---;Creates the unit Wildwing Ripper.
+-createhero npc_dota_neutral_black_drake;---;Creates the unit Ancient Black Drake.
+-createhero npc_dota_neutral_black_dragon;---;Creates the unit Ancient Black Dragon.
+-createhero npc_dota_neutral_blue_dragonspawn_sorcerer;---;Creates the unit Ancient Drakken Armorer.
+-createhero npc_dota_neutral_blue_dragonspawn_overseer;---;Creates the unit Ancient Drakken Sentinel.
+-createhero npc_dota_neutral_granite_golem;---;Creates the unit Ancient Granite Golem.
+-createhero npc_dota_neutral_elder_jungle_stalker;---;Creates the unit Ancient Primal Stalker.
+-createhero npc_dota_neutral_rock_golem;---;Creates the unit Ancient Rock Golem.
+-createhero npc_dota_neutral_small_thunder_lizard;---;Creates the unit Ancient Rumblehide.
+-createhero npc_dota_neutral_jungle_stalker;---;Creates the unit Ancient Stalker.
+-createhero npc_dota_neutral_big_thunder_lizard;---;Creates the unit Ancient Thunderhide.
+-createhero npc_dota_roshan;---;Creates the unit Roshan.
+-createhero npc_dota_courier;---;Creates the unit Animal Courier.
+-createhero npc_dota_beastmaster_boar;---;Creates the unit Boar (old Lesser Boar).
+-createhero npc_dota_beastmaster_greater_boar;---;Creates the unit Boar (old Greater Boar).
+-createhero npc_dota_beastmaster_boar_1;---;Creates the unit Boar.
+-createhero npc_dota_lesser_eidolon;---;Creates the unit Eidolon (lvl1).
+-createhero npc_dota_eidolon;---;Creates the unit Eidolon (lvl2).
+-createhero npc_dota_greater_eidolon;---;Creates the unit Eidolon (lvl3).
+-createhero npc_dota_dire_eidolon;---;Creates the unit Eidolon (lvl4).
+-createhero npc_dota_invoker_forged_spirit;---;Creates the unit Forged Spirit.
+-createhero npc_dota_furion_treant_large;---;Creates the unit Greater Treant.
+-createhero npc_dota_scout_hawk;---;Creates the unit Hawk (old Scout Hawk).
+-createhero npc_dota_greater_hawk;---;Creates the unit Hawk (old Greater Hawk).
+-createhero npc_dota_beastmaster_hawk_1;---;Creates the unit Hawk.
+-createhero npc_dota_lycan_wolf1;---;Creates the unit Lycan Wolf.
+-createhero npc_dota_necronomicon_archer_1;---;Creates the unit Necronomicon Archer.
+-createhero npc_dota_necronomicon_warrior_1;---;Creates the unit Necronomicon Warrior.
+-createhero npc_dota_neutral_mud_golem_split;---;Creates the unit Shard Golem.
+-createhero npc_dota_neutral_mud_golem_split_doom;---;Creates the unit Doom Shard.
+-createhero npc_dota_dark_troll_warlord_skeleton_warrior;---;Creates the unit Skeleton Warrior.
+-createhero npc_dota_broodmother_spiderling;---;Creates the unit Spiderling.
+-createhero npc_dota_broodmother_spiderite;---;Creates the unit Spiderite.
+-createhero npc_dota_furion_treant;---;Creates the unit Treant.
+-createhero npc_dota_unit_undying_zombie;---;Creates the unit Zombie (walking).
+-createhero npc_dota_unit_undying_zombie_torso;---;Creates the unit Zombie (crawling).
+-createhero npc_dota_brewmaster_earth_1;---;Creates the unit Earth.
+-createhero npc_dota_brewmaster_fire_1;---;Creates the unit Fire.
+-createhero npc_dota_brewmaster_storm_1;---;Creates the unit Storm.
+-createhero npc_dota_lone_druid_bear1;---;Creates the unit Spirit Bear.
+-createhero npc_dota_visage_familiar1;---;Creates the unit Familiar.
+-createhero npc_dota_warlock_golem_1;---;Creates the unit Warlock's Golem.
+-createhero npc_dota_warlock_golem_scepter_1;---;Creates the unit Warlock's Golem (aghanim's upgrade).
+-createhero npc_dota_witch_doctor_death_ward;---;Creates the unit Death Ward.
+-createhero npc_dota_tusk_frozen_sigil1;---;Creates the unit Frozen Sigil.
+-createhero npc_dota_juggernaut_healing_ward;---;Creates the unit Healing Ward.
+-createhero npc_dota_techies_land_mine;---;Creates the unit Land Mine.
+-createhero npc_dota_shadow_shaman_ward_1;---;Creates the unit Mass Serpent Ward.
+-createhero npc_dota_pugna_nether_ward_1;---;Creates the unit Nether Ward.
+-createhero npc_dota_venomancer_plague_ward_1;---;Creates the unit Plague Ward.
+-createhero npc_dota_rattletrap_cog;---;Creates the unit Power Cog.
+-createhero npc_dota_templar_assassin_psionic_trap;---;Creates the unit Psionic Trap.
+-createhero npc_dota_techies_remote_mine;---;Creates the unit Remote Mine.
+-createhero npc_dota_techies_stasis_trap;---;Creates the unit Stasis Trap.
+-createhero npc_dota_phoenix_sun;---;Creates the unit Supernova.
+-createhero npc_dota_unit_tombstone1;---;Creates the unit Tombstone.
+-createhero npc_dota_observer_wards;---;Creates the unit Observer Ward.
+-createhero npc_dota_sentry_wards;---;Creates the unit Sentry Ward.
+-createhero npc_dota_elder_titan_ancestral_spirit;---;Creates the unit Astral Spirit.
+-createhero npc_dota_units_base;---;Creates the unit Base unit.
+-createhero npc_dota_treant_eyes;---;Creates the unit Eyes in the Forest.
+-createhero npc_dota_ember_spirit_remnant;---;Creates the unit Fire Remnant.
+-createhero npc_dota_gyrocopter_homing_missile;---;Creates the unit Homing Missile.
+-createhero npc_dota_healing_campfire;---;Creates the unit Kindler's Kit.
+-createhero npc_dota_techies_minefield_sign;---;Creates the unit Minefield Sign.
+-createhero npc_dota_plasma_field;---;Creates the unit Plasma Field.
+-createhero npc_dota_rattletrap_rocket;---;Creates the unit Rocket Flare.
+-createhero npc_dota_slark_visual;---;Creates the unit Slark Visual.
+-createhero npc_dota_broodmother_web;---;Creates the unit Spin Web.
+-createhero npc_dota_wisp_spirit;---;Creates the unit Spirits.
+-createhero npc_dota_stormspirit_remnant;---;Creates the unit Static Remnant.
+-createhero npc_dota_earth_spirit_stone;---;Creates the unit Stone Remnant.
+-createhero npc_dota_weaver_swarm;---;Creates the unit The Swarm.
+-createhero npc_dota_companion;---;Creates the unit Companion.
+-createhero npc_dota_thinker;---;Creates the unit Thinker.
+-createhero npc_dota_troll_warlord_axe;---;Creates the unit Whirling Axes.
+-createhero npc_dota_beastmaster_axe;---;Creates the unit Wild Axes.
+-createhero npc_dota_enraged_wildkin_tornado;---;Creates the unit Tornado.
+

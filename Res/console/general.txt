@@ -1,0 +1,11 @@
+-gold;---;Gives your hero the amount of gold. (use negative numbers to take away gold).
+-lvlup;---;Increases the level of your hero.
+-refresh;---;Replenishes the health and mana of all heroes to full. Also refreshes ability and item cooldowns.
+-respawn;---;Respawns your hero.
+-spawnrune;---;Spawns runes at both rune spots.
+-startgame;---;Starts the game with the first creep spawn, skipping the prepare time.
+-unwtf;---;Spells and items have mana costs and cooldowns again. Disables wtf-mod.
+-wtf;---;Enable wtf-mod. Spells and items have no mana cost and cooldown.
+-lvlmax;---;Levels your hero to the max and skills all your abilities.
+-teleport;---;Teleports the selected hero to the current cursor location.
+

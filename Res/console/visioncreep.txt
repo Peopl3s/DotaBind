@@ -1,0 +1,6 @@
+-allvision;---;Enables shared vision between Radiant and Dire.
+-disablecreepspawn;---;Disables lane creep spawning.
+-enablecreepspawn;---;Enables lane creep spawning.
+-normalvision;---;Disables shared vision between the teams.
+-spawnneutrals;---;Spawns neutral creeps at all camps.
+-spawncreeps;---;Spawns lane creeps for all lanes.
