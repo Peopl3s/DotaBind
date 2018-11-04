@@ -1,3 +1,3 @@
 # DotaBind
 Dota2BindQt wtf training commands
-<img src="h.jpg" width="1600" height="900"/>
+<img src="h.jpg" width="1000" height="700"/>
