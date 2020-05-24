@@ -1,0 +1,38 @@
+QRadioButton {
+      width:23px;
+      height:23px;
+      background-color:black;
+      color:white;
+    
+}
+
+QRadioButton::indicator::checked {
+      image: url(qss/fulls.png);
+    
+}
+
+
+QRadioButton::indicator::unchecked {
+      image: url(qss/emptys.png);
+    
+}
+
+QRadioButton::indicator::unchecked::hover {
+       image: url(qss/halfs.png);
+    
+}
+
+QRadioButton::indicator::checked::hover {
+       image: url(qss/halfs.png);
+    
+}
+
+QRadioButton::indicator:checked:pressed{
+       image: url(qss/presseds.png);
+    
+}
+
+QRadioButton::indicator:unchecked:pressed{
+       image: url(qss/presseds.png);
+    
+}

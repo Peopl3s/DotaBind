@@ -1,0 +1,38 @@
+QListView {
+    show-decoration-selected: 1; /* make the selection span the entire width of the view */
+    background-color:#2F4F4F; 
+    background-image: url(qss/shopback.png);
+    background-position: center;
+    width: 100%; 
+    height: 100%; 
+    border-width: 4px;
+    border-style: solid;
+    border-color: #696969;
+     outline: none;
+}
+
+QListView::item{
+    color:#8B0000;
+    background-color: #FFD700;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #DAA520 #CD853F #D77206;
+    padding: 4px 3px; /* Поля вокруг текста */
+    margin:10%;
+}
+
+QListView::item:hover {
+    background-color: #DAA520;
+    border-color: #FFFF00 #FFFF00 #8B4513;
+}
+
+
+QListView::item:selected {
+    background-color: #DAA520;
+   border-color:#8B4513 #8B4513
+}
+
+QListView::item:selected:hover {
+   background-color: #DAA520;
+   border-color: #DEB887 #DEB887 #696969;
+}
